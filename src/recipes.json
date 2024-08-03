@@ -1,37 +1,5 @@
 [
     {
-      "id": 1,
-      "name": "Spaghetti Bolognese",
-      "ingredients": ["Spaghetti", "Ground beef", "Tomato sauce", "Onions", "Garlic"],
-      "process": "Cook spaghetti. In a separate pan, cook ground beef with onions and garlic. Add tomato sauce and simmer. Serve sauce over spaghetti.",
-      "country": "Italy",
-      "category": "Main Course"
-    },
-    {
-      "id": 2,
-      "name": "Sushi",
-      "ingredients": ["Sushi rice", "Nori", "Fish", "Vegetables"],
-      "process": "Prepare sushi rice. Place nori on a bamboo mat. Spread rice on nori and add fish and vegetables. Roll and cut into pieces.",
-      "country": "Japan",
-      "category": "Main Course"
-    },
-    {
-      "id": 3,
-      "name": "Tacos",
-      "ingredients": ["Tortillas", "Ground beef", "Cheese", "Lettuce", "Tomato", "Sour cream"],
-      "process": "Cook ground beef. Warm tortillas. Fill tortillas with beef, cheese, lettuce, tomato, and sour cream.",
-      "country": "Mexico",
-      "category": "Main Course"
-    },
-    {
-      "id": 4,
-      "name": "Butter Chicken",
-      "ingredients": ["Chicken", "Butter", "Tomato sauce", "Cream", "Spices"],
-      "process": "Cook chicken with spices. Add tomato sauce and butter. Simmer. Add cream and serve with rice or naan.",
-      "country": "India",
-      "category": "Main Course"
-    },
-    {
       "id": 5,
       "name": "Caesar Salad",
       "ingredients": ["Romaine lettuce", "Caesar dressing", "Croutons", "Parmesan cheese"],
@@ -46,14 +14,6 @@
       "process": "Prepare pie crust. Fill with sliced apples, sugar, and cinnamon. Cover with top crust. Bake until golden brown.",
       "country": "USA",
       "category": "Dessert"
-    },
-    {
-      "id": 7,
-      "name": "Paella",
-      "ingredients": ["Rice", "Seafood", "Chicken", "Saffron", "Vegetables"],
-      "process": "Cook chicken and seafood. Add rice and saffron. Simmer with vegetables until rice is cooked.",
-      "country": "Spain",
-      "category": "Main Course"
     },
     {
       "id": 8,
