@@ -1,0 +1,30 @@
+.app {
+  display: flex;
+}
+
+.sidebar {
+  width: 30%;
+  padding: 10px;
+  border-right: 1px solid #ccc;
+}
+
+.main-content {
+  width: 70%;
+  padding: 10px;
+}
+
+.recipe-list div {
+  padding: 5px;
+  cursor: pointer;
+}
+
+.recipe-list div:hover {
+  background-color: #f0f0f0;
+}
+
+.recipe-detail {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #fafafa;
+}
